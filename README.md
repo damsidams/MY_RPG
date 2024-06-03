@@ -13,7 +13,7 @@ Embark on a fantasy quest in MY_RPG, a first-year Epitech project built with the
 * **Inventory Management:** Collect and use powerful potions.
 * **Quests & Missions:** Unravel a compelling storyline through quests and challenges.
 * **Dialogue System:** Interact with characters and uncover hidden lore.
-* 
+* **Sound Design:** Immerse yourself thanks to our homemade sound design.
 
 ## Project Details: ##
 
